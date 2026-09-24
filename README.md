@@ -14,7 +14,7 @@ Not supported: Project64 x64 / ARM64
 
 Tracker of Time  Mlexen/Deady
 
-Special thanks go to Selene-T; her work is recognized in the application as a key inspiration for the continuation and modernization of the tracker interface.
+Special thanks go to Selene-T her work is recognized in the application as a key inspiration for the continuation and modernization of the tracker interface.
 
 ## Project Status
 Release for x86 and x64
