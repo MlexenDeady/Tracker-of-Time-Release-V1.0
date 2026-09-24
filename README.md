@@ -7,11 +7,10 @@ Use “Scan” to connect to a supported, running emulator. The application repo
 The tracker includes the 4x11 grid for items and equipment, quest and song tracking, dungeon items and keys, map/mini-map data, seed checks, entrance randomizer tracking, eight themes, a German-English user interface, free layout positioning, visibility control, saved layouts, and the F8/F9 overlay/layout editor workflow.
 
 ## Supported Emulator Families
+32-bit / x86: Project64, m64py, ModLoader64
+64-bit / x64: BizHawk/EmuHawk, RMG, Mupen64Plus/m64p, RetroArch (Mupen64Plus-Next), RetroArch (ParaLLEl N64), ModLoader64, Ship of Harkinian
 
-The built-in help lists Project64 (x86), m64py, ModLoader64, BizHawk/EmuHawk, RMG, Mupen64Plus/m64p, RetroArch with supported N64 kernels, and Ship of Harkinian, provided they are supported by the existing provider implementation. Exact availability depends on the Tracker architecture and provider support.
-
-Translated with DeepL.com (free version)
-
+Not supported: Project64 x64 / ARM64
 
 Tracker of Time  Mlexen/Deady
 
