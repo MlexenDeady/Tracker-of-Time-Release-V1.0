@@ -1,0 +1,422 @@
+# Tracker of Time License v1.0
+
+**Copyright © 2026 MlexenDeady**
+**Alle Rechte vorbehalten / All rights reserved.**
+
+---
+
+# 🇩🇪 DEUTSCHE FASSUNG
+
+## 1. Geltungsbereich
+
+Diese Lizenz gilt für den ursprünglichen Quellcode und die ursprünglichen Beiträge des Projekts **Tracker of Time**, soweit nicht ausdrücklich etwas anderes angegeben ist.
+
+**„Software“** bezeichnet die Anwendung Tracker of Time einschließlich des ursprünglichen Quellcodes, kompilierter Programmdateien, Konfigurationen, Dokumentation und ursprünglicher Projektdateien.
+
+**„Autor“** bezeichnet MlexenDeady als Urheber und Rechteinhaber der von ihm erstellten Bestandteile des Projekts.
+
+**„Eigene Beiträge“** bezeichnet Code, Dokumentation, Konfigurationen, Designs und sonstige Inhalte, die vom Autor für Tracker of Time erstellt wurden.
+
+**„Drittmaterialien“** bezeichnet Inhalte, die nicht ursprünglich vom Autor erstellt wurden und eigenen Rechten oder Lizenzen unterliegen.
+
+## 2. Urheberrecht
+
+Der vom Autor erstellte Quellcode und die eigenen Beiträge sind durch die jeweils geltenden Urheberrechtsgesetze geschützt.
+
+Das Eigentum an diesen Bestandteilen verbleibt beim Autor.
+
+Diese Lizenz überträgt kein Eigentum an der Software oder an den eigenen Beiträgen auf andere Personen oder Organisationen.
+
+## 3. Erlaubte Nutzung
+
+Unter Einhaltung dieser Lizenz erhält der Nutzer eine eingeschränkte, nicht-exklusive und nicht übertragbare Erlaubnis:
+
+* den Quellcode anzusehen und zu untersuchen;
+* die Software für private und nicht-kommerzielle Zwecke zu verwenden;
+* die Software auf eigenen Geräten auszuführen;
+* den Quellcode für private und nicht-kommerzielle Zwecke zu verändern;
+* private Änderungen für den eigenen Gebrauch zu erstellen;
+* den Quellcode zu Studien- und Lernzwecken zu untersuchen.
+
+Diese Erlaubnis überträgt kein Eigentum an der Software.
+
+## 4. Weitergabe des Quellcodes
+
+Die Weitergabe oder Veröffentlichung des ursprünglichen Quellcodes ist **ohne vorherige schriftliche Genehmigung des Autors nicht gestattet**.
+
+Insbesondere ist es nicht gestattet:
+
+* den Quellcode in einem anderen öffentlichen Repository zu veröffentlichen;
+* öffentliche Spiegelkopien des Quellcodes zu erstellen;
+* den Quellcode als Bestandteil eines anderen Projekts weiterzugeben;
+* den Quellcode zu verkaufen oder unterzulizenzieren;
+* den Quellcode als separates Download-Paket öffentlich bereitzustellen.
+
+Private Kopien ausschließlich für die nach dieser Lizenz erlaubte persönliche Nutzung sind zulässig.
+
+## 5. Veränderte Versionen
+
+Die Software darf für private und nicht-kommerzielle Zwecke verändert werden.
+
+Eine veränderte Version, die den ursprünglichen Quellcode oder wesentliche Teile davon enthält, darf jedoch ohne vorherige schriftliche Genehmigung des Autors **nicht öffentlich veröffentlicht, weitergegeben, verkauft, unterlizenziert oder anderweitig bereitgestellt werden**.
+
+Dies umfasst insbesondere:
+
+* öffentliche Git-Repositories;
+* herunterladbare Quellcode-Archive;
+* modifizierte Forks;
+* abgeleitete Anwendungen mit wesentlichen Teilen des ursprünglichen Quellcodes;
+* kommerzielle Produkte, die wesentlich auf der Software basieren.
+
+## 6. Weitergabe kompilierter Programmdateien
+
+Offizielle, vom Autor veröffentlichte kompilierte Versionen von Tracker of Time dürfen für private und nicht-kommerzielle Zwecke heruntergeladen und verwendet werden.
+
+Eine Weitergabe offizieller Binärdateien ist nur gestattet, wenn dies vom Autor ausdrücklich erlaubt wurde oder die jeweilige offizielle Veröffentlichung entsprechende Rechte gewährt.
+
+Nicht autorisierte Änderungen, Neuverpackungen, Entfernung von Copyright-Hinweisen oder Weitergabe veränderter Binärdateien sind ohne vorherige schriftliche Genehmigung des Autors nicht gestattet.
+
+## 7. Kommerzielle Nutzung
+
+Eine kommerzielle Nutzung der Software oder der eigenen Beiträge ist ohne vorherige schriftliche Genehmigung des Autors nicht gestattet.
+
+Dies umfasst insbesondere:
+
+* Verkauf der Software;
+* Verkauf veränderter Versionen;
+* Integration der Software in kommerzielle Produkte;
+* Nutzung als Bestandteil eines kostenpflichtigen Dienstes;
+* Unterlizenzierung;
+* Monetarisierung veränderter Versionen, die wesentliche Teile der Software enthalten.
+
+Der Autor kann eine kommerzielle Nutzung gesondert schriftlich genehmigen.
+
+## 8. Namensnennung
+
+Bei öffentlichen Erwähnungen von Tracker of Time soll der Projektname und der Copyright-Hinweis erhalten bleiben.
+
+Soweit technisch möglich, darf folgender Hinweis nicht entfernt werden:
+
+**Tracker of Time — Copyright © 2026 MlexenDeady**
+
+Niemand darf die vom Autor erstellten Beiträge als eigene Urheberschaft oder eigenes Eigentum ausgeben.
+
+## 9. Drittmaterialien
+
+Diese Lizenz überträgt **keine Eigentumsrechte oder zusätzlichen Nutzungsrechte an Drittmaterialien**.
+
+Drittmaterialien bleiben den jeweils geltenden Rechten, Lizenzen und Bedingungen unterworfen.
+
+Soweit vorhanden, müssen die jeweiligen Copyright-Hinweise und Lizenzen von Drittanbietern eingehalten werden.
+
+Drittmaterialien können unter anderem umfassen:
+
+* Softwarebibliotheken;
+* Frameworks;
+* Schriftarten;
+* externe Daten;
+* Marken;
+* spielbezogene Namen und Inhalte;
+* externe Ressourcen;
+* von Dritten bereitgestellte Materialien.
+
+Besitzt ein Drittmaterial eine eigene Lizenz, gilt diese für das betreffende Material.
+
+## 10. KI-generierte Inhalte
+
+Tracker of Time kann Grafiken, Icons, Illustrationen oder andere Inhalte enthalten, die mit Unterstützung künstlicher Intelligenz erstellt wurden.
+
+Soweit solche Inhalte nach dem jeweils geltenden Recht urheberrechtlich geschützt sind oder sonstigen Rechten unterliegen, gelten die entsprechenden gesetzlichen Regelungen sowie die Nutzungsbedingungen des jeweils verwendeten KI-Dienstes.
+
+Diese Lizenz beansprucht keine Rechte, die dem Autor rechtlich nicht zustehen.
+
+Soweit eigene menschliche kreative Beiträge vorhanden sind, insbesondere Auswahl, Zusammenstellung, Bearbeitung, Komposition, Gestaltung und Integration, können diese eigenen Beiträge unter dieser Lizenz stehen.
+
+## 11. Marken und Namen
+
+„Tracker of Time“ und der Name **MlexenDeady** dürfen nicht in einer Weise verwendet werden, die fälschlicherweise eine offizielle Unterstützung, Partnerschaft, Zugehörigkeit, Sponsoring oder Urheberschaft einer nicht autorisierten Version suggeriert.
+
+Diese Lizenz gewährt keine Rechte zur Nutzung fremder Marken.
+
+Ocarina of Time, Nintendo und sonstige Namen und Marken Dritter verbleiben bei ihren jeweiligen Rechteinhabern.
+
+## 12. Keine Gewährleistung
+
+Die Software wird **„AS IS“ / „WIE BESEHEN“** bereitgestellt, ohne ausdrückliche oder stillschweigende Garantie.
+
+Soweit gesetzlich zulässig, übernimmt der Autor keine Gewähr für:
+
+* Eignung für einen bestimmten Zweck;
+* Marktgängigkeit;
+* Zuverlässigkeit;
+* Verfügbarkeit;
+* Kompatibilität mit bestimmten Emulatoren, Systemen oder Konfigurationen;
+* Fehlerfreiheit oder das Fehlen von Programmfehlern.
+
+Es wird nicht garantiert, dass die Software in jeder Umgebung oder Konfiguration funktioniert.
+
+## 13. Haftungsbeschränkung
+
+Soweit gesetzlich zulässig, haftet der Autor nicht für direkte, indirekte, zufällige, besondere oder sonstige Schäden, die aus der Nutzung oder der Unmöglichkeit der Nutzung der Software entstehen.
+
+Zwingende gesetzliche Haftungsregelungen bleiben unberührt.
+
+## 14. Keine Übertragung von Rechten
+
+Diese Lizenz überträgt weder Urheberrechte noch sonstige geistige Eigentumsrechte auf den Nutzer.
+
+Die Nutzungserlaubnis stellt keinen Verkauf, keine Abtretung und keine Übertragung des Eigentums dar.
+
+## 15. Beendigung der Lizenz
+
+Die nach dieser Lizenz gewährten Rechte erlöschen automatisch, wenn die Bedingungen dieser Lizenz verletzt werden.
+
+Nach Beendigung müssen nicht autorisierte Nutzungen, Veröffentlichungen oder Weitergaben eingestellt werden.
+
+Der Autor kann die Nutzungserlaubnis nach eigenem Ermessen wiederherstellen.
+
+## 16. Zukünftige Lizenzversionen
+
+Der Autor kann für zukünftige Versionen von Tracker of Time neue Versionen dieser Lizenz veröffentlichen.
+
+Sofern nicht ausdrücklich anders angegeben, bleibt eine bestimmte Veröffentlichung an die dieser Veröffentlichung beigefügte Lizenzversion gebunden.
+
+## 17. Anwendbares Recht
+
+Diese Lizenz ist nach dem jeweils anwendbaren Recht auszulegen.
+
+Zwingende gesetzliche Rechte, die nicht wirksam ausgeschlossen oder eingeschränkt werden können, bleiben unberührt.
+
+## 18. Anfragen nach zusätzlichen Rechten
+
+Anfragen bezüglich Nutzungen, die durch diese Lizenz nicht gestattet sind, können an den Autor gerichtet werden.
+
+Dies betrifft beispielsweise:
+
+* kommerzielle Nutzung;
+* öffentliche Weitergabe des Quellcodes;
+* Veröffentlichung veränderter Versionen;
+* Weitergabe veränderter Binärdateien;
+* Integration in andere Projekte;
+* Unterlizenzierung;
+* sonstige Nutzungen außerhalb dieser Lizenz.
+
+Der Autor kann zusätzliche Rechte im Einzelfall schriftlich gewähren.
+
+## 19. Schlussbestimmung
+
+Tracker of Time ist ein eigenständig entwickeltes Softwareprojekt.
+
+Diese Lizenz gilt ausschließlich für Rechte, über die der Autor verfügen kann, und ersetzt oder überschreibt keine Rechte, Lizenzen, Marken oder Urheberrechte Dritter.
+
+---
+
+# 🇬🇧 ENGLISH VERSION
+
+## 1. Scope
+
+This license applies to the original source code and original contributions contained in the **Tracker of Time** project, unless explicitly stated otherwise.
+
+**“Software”** means the Tracker of Time application, including its original source code, compiled binaries, configuration, documentation, and original project files.
+
+**“Author”** means MlexenDeady, the creator and rights holder of the project components created by the Author.
+
+**“Original Contributions”** means code, documentation, configuration, designs, and other material created by the Author for Tracker of Time.
+
+**“Third-Party Material”** means material that was not originally created by the Author and is subject to separate rights or licenses.
+
+## 2. Copyright
+
+The source code and Original Contributions created by the Author are protected by applicable copyright laws.
+
+Ownership of these components remains with the Author.
+
+This license does not transfer ownership of the Software or Original Contributions to any person or organization.
+
+## 3. Permitted Use
+
+Subject to this license, the user is granted a limited, non-exclusive, and non-transferable permission to:
+
+* inspect and study the source code;
+* use the Software for personal and non-commercial purposes;
+* run the Software on personal devices;
+* modify the source code for personal and non-commercial purposes;
+* create private modifications for personal use;
+* study the source code for educational and technical purposes.
+
+These permissions do not transfer ownership of the Software.
+
+## 4. Source Code Redistribution
+
+Redistribution or publication of the original source code is **not permitted without prior written permission from the Author**.
+
+In particular, you may not:
+
+* publish the source code in another public repository;
+* create public mirrors of the source code;
+* distribute the source code as part of another project;
+* sell or sublicense the source code;
+* make the source code publicly available as a separate downloadable package.
+
+Private copies made solely for permitted personal use are allowed.
+
+## 5. Modified Versions
+
+The Software may be modified for personal and non-commercial purposes.
+
+However, a modified version containing the original source code or substantial portions thereof may **not be publicly published, distributed, sold, sublicensed, or otherwise made available without prior written permission from the Author**.
+
+This includes, but is not limited to:
+
+* public Git repositories;
+* downloadable source archives;
+* modified forks;
+* derivative applications containing substantial portions of the original source code;
+* commercial products substantially based on the Software.
+
+## 6. Binary Distribution
+
+Official compiled versions of Tracker of Time published by the Author may be downloaded and used for personal and non-commercial purposes.
+
+Redistribution of official binaries is permitted only when explicitly authorized by the Author or by the terms of the corresponding official release.
+
+Unauthorized modification, repackaging, removal of copyright notices, or redistribution of modified binaries is not permitted without prior written permission from the Author.
+
+## 7. Commercial Use
+
+Commercial use of the Software or Original Contributions is prohibited without prior written permission from the Author.
+
+This includes, but is not limited to:
+
+* selling the Software;
+* selling modified versions;
+* incorporating the Software into commercial products;
+* using the Software as part of a paid service;
+* sublicensing the Software;
+* monetizing modified versions containing substantial portions of the Software.
+
+The Author may separately grant permission for commercial use in writing.
+
+## 8. Attribution
+
+When publicly referring to Tracker of Time, the project name and copyright notice should be retained.
+
+Where technically applicable, the following notice must not be removed:
+
+**Tracker of Time — Copyright © 2026 MlexenDeady**
+
+No person may claim authorship or ownership of the Author's Original Contributions.
+
+## 9. Third-Party Material
+
+This license does **not** grant ownership of or additional rights to Third-Party Material.
+
+Third-Party Material remains subject to the rights, licenses, and terms applicable to that material.
+
+Where applicable, the respective copyright notices and third-party licenses must be respected.
+
+Third-Party Material may include, but is not limited to:
+
+* software libraries;
+* frameworks;
+* fonts;
+* external data;
+* trademarks;
+* game-related names and content;
+* external resources;
+* materials provided by third parties.
+
+Where Third-Party Material is subject to its own license, that license governs the respective material.
+
+## 10. AI-Generated Material
+
+Tracker of Time may contain artwork, icons, illustrations, or other material generated with the assistance of artificial intelligence tools.
+
+To the extent that such material is protected by copyright or subject to other rights under applicable law, those rights are governed by the applicable law and the terms of the respective AI service.
+
+This license does not claim ownership of rights that the Author does not legally possess.
+
+Where applicable, the Author's human creative contributions, including selection, arrangement, editing, composition, design, and integration, may be covered by this license.
+
+## 11. Trademarks and Names
+
+“Tracker of Time” and the name **MlexenDeady** may not be used in a manner that falsely suggests official endorsement, affiliation, sponsorship, or authorship of an unauthorized version.
+
+This license does not grant permission to use third-party trademarks.
+
+Ocarina of Time, Nintendo, and other third-party names and trademarks remain the property of their respective owners.
+
+## 12. No Warranty
+
+The Software is provided **“AS IS”**, without warranty of any kind, express or implied.
+
+To the maximum extent permitted by applicable law, the Author disclaims warranties including:
+
+* fitness for a particular purpose;
+* merchantability;
+* reliability;
+* availability;
+* compatibility with particular emulators, systems, or configurations;
+* freedom from errors or defects.
+
+The Author does not guarantee that the Software will operate in every environment or configuration.
+
+## 13. Limitation of Liability
+
+To the maximum extent permitted by applicable law, the Author shall not be liable for direct, indirect, incidental, special, consequential, or other damages arising from the use of or inability to use the Software.
+
+Mandatory statutory liability provisions remain unaffected.
+
+## 14. No Transfer of Rights
+
+This license does not transfer copyright or any other intellectual-property rights to the user.
+
+Permission to use the Software does not constitute a sale, assignment, or transfer of ownership.
+
+## 15. Termination
+
+The permissions granted under this license automatically terminate if the terms of this license are violated.
+
+Upon termination, unauthorized use, publication, or distribution must cease.
+
+The Author may restore permission at their discretion.
+
+## 16. Future License Versions
+
+The Author may publish future versions of this license for future releases of Tracker of Time.
+
+Unless explicitly stated otherwise, a specific release remains governed by the license version included with that release.
+
+## 17. Applicable Law
+
+This license shall be interpreted in accordance with applicable law.
+
+Mandatory statutory rights that cannot legally be excluded or limited remain unaffected.
+
+## 18. Requests for Additional Permissions
+
+Requests for uses not permitted by this license may be directed to the Author.
+
+This includes:
+
+* commercial use;
+* public source-code redistribution;
+* publication of modified versions;
+* redistribution of modified binaries;
+* incorporation into other projects;
+* sublicensing;
+* other uses outside the permissions granted by this license.
+
+The Author may grant additional permissions on a case-by-case basis in writing.
+
+## 19. Final Notice
+
+Tracker of Time is an independently developed software project.
+
+This license applies only to rights controlled by the Author and does not override the rights, licenses, trademarks, or copyrights of third parties.
+
+---
+
+**Tracker of Time License v1.0**
+**Copyright © 2026 MlexenDeady**
+**All rights reserved.**
